@@ -1,1 +1,0 @@
-Dim valami as String
